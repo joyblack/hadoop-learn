@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-access" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phone-flow" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phone-flow-sort" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/small-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/table-combine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/word-count" charset="UTF-8" />
+  </component>
+</project>
